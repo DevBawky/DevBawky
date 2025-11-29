@@ -16,10 +16,11 @@
 <img src="./assets/GameLab.png" style="width:100px; height:150px; image-rendering: pixelated;"/> <img src="./assets/GDWC2024.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
 
 # Projects in progress ⭕
-### [Bawky Studio] ***PROJECT:BETDOWN***<br>
+### [Bawky Studio] ***FATALDRAW***<br>
 <img src="./assets/_BETDOWN.png" style="width:250px; height:150px; image-rendering: pixelated;"/>
 
 # Completed projects ✔
+### [SPADE ACE] ***BIG BLIND***<br>
 <img src="./assets/BigBlind.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
 
 # Primary programming language

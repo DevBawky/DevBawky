@@ -26,7 +26,7 @@ I am a Game Development Team Leader with a background in Computer Science,<br>pa
 
 | Award / Activity | Description | Badge |
 | :--- | :--- | :---: |
-| **GDWC 2024** | **WINNER** in Best Hobby Game Category <br> *(Game Development World Championship)* <br> [![Watch Ceremony](https://img.shields.io/badge/▶_Watch_Ceremony-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/vDAGIJeHC1c?t=1110) | <img src="./assets/GDWC2024.png" height="80"/> |
+| **GDWC 2024** | **WINNER** in Best Hobby Game Category <br> *(Game Development World Championship)* <br> [![GDWC](https://img.shields.io/badge/GDWC_Website-FFFF00)](https://thegdwc.com/championships/2024-winter/) | <img src="./assets/GDWC2024.png" height="80"/> |
 | **Krafton Jungle** | **Game Lab** Intensive Course Completion <br> *(Game Design Training Program)* | <img src="./assets/GameLab.png" height="80"/> |
 
 ---

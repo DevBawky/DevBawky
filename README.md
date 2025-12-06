@@ -1,9 +1,11 @@
-# Hi there! I'm Minhyuk Yoon (DevBawky) 🙋‍♂️
+# 🙋‍♂️ Hi there! I'm.. 
 
-### 🏆 **GDWC 2024 Best Hobby Game WINNER**
+### 🏆 **GDWC 2024 WINNER**
 > **"Turning imagination into playable reality."**
 
-I am a Game Development Team Leader with a background in Computer Science, passionate about creating unique gameplay experiences through solid engineering and creative direction.
+I am a Game Development Team Leader with a background in Computer Science,<br>passionate about creating unique gameplay experiences through solid engineering and creative direction.
+
+<img src="https://github-profile-trophy.vercel.app/?username=DevBawky&theme=radical&no-frame=true&margin-w=15&margin-h=15&rank=-C,-?&row=1" alt="trophy"/>
 
 [![BawkyStudio](https://img.shields.io/badge/Bawky_Studio-Website-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bawkystudio.com/en/main)
 [![Youtube](https://img.shields.io/badge/YouTube-BawkZilla-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevBawky)
@@ -24,19 +26,19 @@ I am a Game Development Team Leader with a background in Computer Science, passi
 
 | Award / Activity | Description | Badge |
 | :--- | :--- | :---: |
-| **GDWC 2024** | **WINNER** in Best Hobby Game Category <br> *(Global Game Development World Championship)* | <img src="./assets/GDWC2024.png" height="80"/> |
-| **Krafton Jungle** | **Game Lab** Intensive Course Completion <br> *(Elite Game Developer Training Program)* | <img src="./assets/GameLab.png" height="80"/> |
+| **GDWC 2024** | **WINNER** in Best Hobby Game Category <br> *(Game Development World Championship)* <br> [![Watch Ceremony](https://img.shields.io/badge/▶_Watch_Ceremony-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/vDAGIJeHC1c?t=1110) | <img src="./assets/GDWC2024.png" height="80"/> |
+| **Krafton Jungle** | **Game Lab** Intensive Course Completion <br> *(Game Design Training Program)* | <img src="./assets/GameLab.png" height="80"/> |
 
 ---
 
 ## 🚀 Projects
 
 ### 🔴 In Progress: **FATALDRAW** (2025)
-> **"Every Bullet is a Bet."** - A 2-Player Co-op Deck-building Shooter.
+> **"Every Bullet is a Bet."** - A 2-Player Co-op Shooter.
 
 | Project Info | Preview |
 | :--- | :--- |
-| **Role:** Project Lead, Main Logic, Network Programming <br> **Team:** Bawky Studio (6 Members) <br> **Status:** In Development (Targeting Steam Release) <br><br> **🛠 Tech Stack:** <br> `Unity 6` `Netcode for GameObjects` `Steamworks P2P` | <img src="./assets/_BETDOWN.png" width="300" style="image-rendering: pixelated;"/> |
+| **Role:** Project Lead, Main Logic, Network Programming <br> **Team:** Bawky Studio <br> **Status:** In Development (Targeting Steam Release) <br><br> **Tech Stack:** <br> `Unity 6` `Netcode for GameObjects` `Steamworks P2P` | <img src="./assets/_BETDOWN.png" width="300" style="image-rendering: pixelated;"/> |
 
 <br>
 
@@ -45,7 +47,7 @@ I am a Game Development Team Leader with a background in Computer Science, passi
 
 | Project Info | Preview |
 | :--- | :--- |
-| **Role:** Main Developer <br> **Team:** SPADE ACE <br> **Achievement:** **GDWC 2024 WINNER** <br><br> **🛠 Tech Stack:** <br> `Unity` `C#` `2D Lighting System` | <img src="./assets/BigBlind.png" width="300" style="image-rendering: pixelated;"/> |
+| **Role:** Main Developer, Designer, Artist <br> **Team:** SPADE ACE <br> **Achievement:** **GDWC 2024 WINNER** <br><br> **Tech Stack:** <br> `Unity` `C#` `2D Lighting System` | <img src="./assets/BigBlind.png" width="300" style="image-rendering: pixelated;"/> |
 
 ---
 
@@ -67,6 +69,7 @@ I am a Game Development Team Leader with a background in Computer Science, passi
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevBawky&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBawky&layout=compact&theme=radical" height="150" alt="languages graph" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevBawky&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 </div>

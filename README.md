@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hi there! I'm.. 
+# 🙋‍♂️ Hi! I'm.. 
 
 ### 🏆 **GDWC 2024 WINNER**
 > **"Turning imagination into playable reality."**
@@ -8,16 +8,16 @@ I am a Game Development Team Leader with a background in Computer Science,<br>pa
 <img src="https://github-profile-trophy.vercel.app/?username=DevBawky&theme=radical&no-frame=true&margin-w=15&margin-h=15&rank=-C,-?&row=1" alt="trophy"/>
 
 [![BawkyStudio](https://img.shields.io/badge/Bawky_Studio-Website-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bawkystudio.com/en/main)
-[![Youtube](https://img.shields.io/badge/YouTube-BawkZilla-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevBawky)
+[![Youtube](https://img.shields.io/badge/YouTube-Bawky-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevBawky)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ledfox6848@gmail.com)
 
 ---
 
 ## 👨‍💻 About Me
-- **🎓 Education:** Pusan National Univ. Computer Science & Engineering
-- **💼 Current Role:** Team Leader & Main Developer at **[Bawky Studio]** (2025~)
-- **🎬 Content Creator:** Running a Game Dev Channel **[BawkZilla]** (2.7K+ Subscribers)
-- **🚀 Expertise:** Unity Engine, Multiplayer Networking (Netcode), System Architecture
+- **Education:** Pusan National Univ. Computer Science Engineering
+- **Current Role:** Team Leader & Main Developer at **[Bawky Studio]** (2025~)
+- **Content Creator:** Running a Game Dev Channel **[Bawky]** (2.7K+ Subscribers)
+- **Expertise:** Unity Engine, Multiplayer Networking (Netcode), System Architecture
 
 ---
 
@@ -31,10 +31,10 @@ I am a Game Development Team Leader with a background in Computer Science,<br>pa
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔴 In Progress: **FATALDRAW** (2025)
-> **"Every Bullet is a Bet."** - A 2-Player Co-op Shooter.
+### In Progress: **FATALDRAW** (2025)
+> **"Every Bullet is a Bet."** 2 Player Co-op Shooter.
 
 | Project Info | Preview |
 | :--- | :--- |
@@ -42,8 +42,8 @@ I am a Game Development Team Leader with a background in Computer Science,<br>pa
 
 <br>
 
-### ✔️ Completed: **BIG BLIND** (2024)
-> **"Where Sound Becomes Sight."** - A Top-down Blind Shooter.
+### Completed: **BIG BLIND** (2024)
+> **"Where Sound Becomes Sight."** Top down Shooter.
 
 | Project Info | Preview |
 | :--- | :--- |
@@ -51,7 +51,7 @@ I am a Game Development Team Leader with a background in Computer Science,<br>pa
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### **Languages**
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)

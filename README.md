@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm DevBawky
+# Hi, I'm Bawky
 
 ### "A Developer in Pursuit of Sharp, Distinctive Fun"
 

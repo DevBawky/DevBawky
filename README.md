@@ -19,7 +19,7 @@ Passionate about creating unique gameplay experiences
 
 [![BawkyStudio](https://img.shields.io/badge/Bawky_Studio-Website-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bawkystudio.com/en/main)
 [![Youtube](https://img.shields.io/badge/YouTube-Bawky-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevBawky)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ledfox6848@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghini7170@gmail.com)
 
 </div>
 

@@ -2,7 +2,7 @@
 
 # Hi, I'm DevBawky
 
-### A Developer in Pursuit of Sharp, Distinctive Fun.
+### "A Developer in Pursuit of Sharp, Distinctive Fun"
 
 <br>
 
@@ -12,8 +12,8 @@
 
 <br>
 
-**Indie Game Dev Team Leader** & **Computer Science Engineer**<br>
-Passionate about creating unique gameplay experiences through solid engineering.
+**Indie Game Dev**<br>
+Passionate about creating unique gameplay experiences
 
 <br>
 
@@ -55,11 +55,11 @@ Passionate about creating unique gameplay experiences through solid engineering.
 ## Projects
 
 ### In Progress: **FATALDRAW** (2025)
-> **"Every Bullet is a Bet."** 2 Player Co-op Shooter.
+> **"Every Bullet is a Bet."** 2 Player Co-op Shooter
 
 | Project Info | Preview |
 | :--- | :--- |
-| **Role:** Project Lead, Main Logic, Network Programming <br> **Team:** Bawky Studio <br> **Status:** In Development (Targeting Steam Release) <br><br> **Tech Stack:** <br> `Unity 6` `Netcode for GameObjects` `Steamworks P2P`<br><br>[![Steam Page](https://img.shields.io/badge/Steam_Page-000b4a)](https://store.steampowered.com/app/3349820/Big_Blind/) | <img src="./assets/_BETDOWN.png" width="300" style="image-rendering: pixelated;"/> |
+| **Role:** Project Lead <br> **Team:** Bawky Studio <br> **Status:** In Development <br><br>[![Steam Page](https://img.shields.io/badge/Steam_Page-000b4a)](https://store.steampowered.com/app/3349820/Big_Blind/) | <img src="./assets/_BETDOWN.png" width="300" style="image-rendering: pixelated;"/> |
 
 <br>
 
@@ -68,7 +68,7 @@ Passionate about creating unique gameplay experiences through solid engineering.
 
 | Project Info | Preview |
 | :--- | :--- |
-| **Role:** Main Developer, Designer, Artist <br> **Team:** SPADE ACE <br> **Achievement:** **GDWC 2024 WINNER** <br><br> **Tech Stack:** <br> `Unity` `C#` `2D Lighting System`<br><br>[![Steam Page](https://img.shields.io/badge/Steam_Page-000b4a)](https://store.steampowered.com/app/3349820/Big_Blind/) | <img src="./assets/BigBlind.png" width="300" style="image-rendering: pixelated;"/> |
+| **Role:** Main Developer, Designer, Artist <br> **Team:** SPADE ACE <br> **Achievement:** **GDWC 2024 WINNER** <br><br>[![Steam Page](https://img.shields.io/badge/Steam_Page-000b4a)](https://store.steampowered.com/app/3349820/Big_Blind/) | <img src="./assets/BigBlind.png" width="300" style="image-rendering: pixelated;"/> |
 
 <br>
 

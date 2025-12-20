@@ -55,7 +55,7 @@ Passionate about creating unique gameplay experiences
 ## Projects
 
 ### In Progress: **FATALDRAW** (2025)
-> **"Every Bullet is a Bet."** 2 Player Co-op Shooter
+> **"Every Bullet is a Bet"** 2 Player Co-op Shooter
 
 | Project Info | Preview |
 | :--- | :--- |
@@ -64,7 +64,7 @@ Passionate about creating unique gameplay experiences
 <br>
 
 ### Completed: **BIG BLIND** (2024)
-> **"Where Sound Becomes Sight."** Top down Shooter.
+> **"Where Sound Becomes Sight"** Top down Shooter
 
 | Project Info | Preview |
 | :--- | :--- |
@@ -76,7 +76,7 @@ Passionate about creating unique gameplay experiences
 
 <div align="center">
 
-**Languages**<br>
+**Primary Languages**<br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 

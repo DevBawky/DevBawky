@@ -1,8 +1,11 @@
 <div align="center">
 
-# Hi, I'm Bawky
+# Bawky
 
-### "A Developer in Pursuit of Sharp, Distinctive Fun"
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=5000&color=FFD166&center=true&vCenter=true&width=640&lines="A+Developer+in+Pursuit+of+Sharp,+Distinctive+Fun")](https://git.io/typing-svg)
+
+
+### 
 
 <br>
 

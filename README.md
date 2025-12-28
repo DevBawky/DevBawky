@@ -71,7 +71,7 @@ Passionate about creating unique gameplay experiences
 
 | Project Info | Preview |
 | :--- | :--- |
-| **Role:** Main Developer, Designer, Artist <br> **Team:** SPADE ACE <br> **Achievement:** **GDWC 2024 WINNER** <br><br>[![Steam Page](https://img.shields.io/badge/Steam_Page-000b4a)](https://store.steampowered.com/app/3349820/Big_Blind/) | <img src="./assets/BigBlind.png" width="300" style="image-rendering: pixelated;"/> |
+| **Role:** TGD <br> **Team:** SPADE ACE <br> **Achievement:** **GDWC 2024 WINNER** <br><br>[![Steam Page](https://img.shields.io/badge/Steam_Page-000b4a)](https://store.steampowered.com/app/3349820/Big_Blind/) | <img src="./assets/BigBlind.png" width="300" style="image-rendering: pixelated;"/> |
 
 <br>
 

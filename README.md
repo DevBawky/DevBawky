@@ -75,7 +75,7 @@ Passionate about creating unique gameplay experiences
 
 <br>
 
-### In Progress: **Kalivra** (2026)
+### Completed: **Kalivra** (2026)
 > **"Game Balance Adjustment Tool"** Software
 
 | Project Info | Preview |

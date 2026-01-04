@@ -62,7 +62,7 @@ Passionate about creating unique gameplay experiences
 
 | Project Info | Preview |
 | :--- | :--- |
-| **Role:** Project Lead <br> **Team:** Bawky Studio <br> **Status:** In Development <br><br>[![Steam Page](https://img.shields.io/badge/Steam_Page-000b4a)](https://store.steampowered.com/app/3349820/Big_Blind/) | <img src="./assets/_BETDOWN.png" width="300" style="image-rendering: pixelated;"/> |
+| **Role:** Project Lead <br> **Team:** Bawky Studio <br> **Status:** In Development <br><br>[![Steam](https://img.shields.io/badge/Steam-FATALDRAW-000b4a?logo=steam&logoColor=white)](https://store.steampowered.com/app/3349820/Big_Blind/) | <img src="./assets/_BETDOWN.png" width="300" style="image-rendering: pixelated;"/> |
 
 <br>
 
@@ -71,7 +71,16 @@ Passionate about creating unique gameplay experiences
 
 | Project Info | Preview |
 | :--- | :--- |
-| **Role:** TGD <br> **Team:** SPADE ACE <br> **Achievement:** **GDWC 2024 WINNER** <br><br>[![Steam Page](https://img.shields.io/badge/Steam_Page-000b4a)](https://store.steampowered.com/app/3349820/Big_Blind/) | <img src="./assets/BigBlind.png" width="300" style="image-rendering: pixelated;"/> |
+| **Role:** TGD <br> **Team:** SPADE ACE <br> **Achievement:** **GDWC 2024 WINNER** <br><br>[![Steam](https://img.shields.io/badge/Steam-BIG%20BLIND-000b4a?logo=steam&logoColor=white)](https://store.steampowered.com/app/3349820/Big_Blind/) | <img src="./assets/BigBlind.png" width="300" style="image-rendering: pixelated;"/> |
+
+<br>
+
+### In Progress: **Kalivra** (2026)
+> **"Game Balance Adjustment Tool"** Software
+
+| Project Info | Preview |
+| :--- | :--- |
+| **Role:** Lead Developer <br> **Status:** Released <br><br>[![GitHub](https://img.shields.io/badge/GitHub-Kalivra-181717?logo=github&logoColor=white)](https://github.com/DevBawky/Kalivra) | <img src="./assets/Kalivra.png" width="300" style="image-rendering: pixelated;"/> |
 
 <br>
 
@@ -82,10 +91,13 @@ Passionate about creating unique gameplay experiences
 **Primary Languages**<br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Engines**<br>
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 **Infra & Tools**<br>
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)

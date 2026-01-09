@@ -32,8 +32,8 @@ Passionate about creating unique gameplay experiences
 
 * **Education** : Pusan National Univ. Computer Science Engineering
 * **Current Role** : Team Leader & Main Developer at **[Bawky Studio]** (2025~)
-* **Content Creator** : Running a Game Dev Channel **[Bawky]** (2.7K+ Subscribers)
-* **Expertise** : Unity Engine, Multiplayer Networking (Netcode), System Architecture
+* **Content Creator** : Running a Game Dev Channel **[Bawky]** (2.8K+ Subscribers)
+* **Expertise** : Game Dev Utilities, Multiplayer Networking, System Architecture
 
 <br>
 
@@ -88,10 +88,14 @@ Passionate about creating unique gameplay experiences
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Infra & Tools**<br>
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>

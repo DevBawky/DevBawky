@@ -32,7 +32,7 @@ Passionate about creating unique gameplay experiences
 
 * **Education** : Pusan National Univ. Computer Science Engineering
 * **Current Role** : Team Leader & Main Developer at **[Bawky Studio]** (2025~)
-* **Content Creator** : Running a Game Dev Channel **[Bawky]** (2.8K+ Subscribers)
+* **Content Creator** : Running a Game Dev Channel **[Bawky]** (3K+ Subscribers)
 * **Expertise** : Game Dev Utilities, Multiplayer Networking, System Architecture
 
 <br>
@@ -69,7 +69,7 @@ Passionate about creating unique gameplay experiences
 | Project | Info | Preview |
 | :--- | :--- | :--- |
 | **BIG BLIND** (2024)<br><sub>Where Sound Becomes Sight</sub> | **Type:** Game(2D Top down Shooter)<br>**Role:** Main Developer<br>**Team:** SPADE ACE<br>**Achievement:** **GDWC 2024 WINNER**<br><br>[![Steam](https://img.shields.io/badge/Steam-BIG%20BLIND-000b4a?logo=steam&logoColor=white)](https://store.steampowered.com/app/3349820/Big_Blind/) | <img src="./assets/BigBlind.png" width="300" style="image-rendering: pixelated;"/> |
-| **Kalivra** (2026)<br><sub>Game Balance Adjustment Tool</sub> | **Type:** Software Tool<br>**Role:** Developer<br>**Status:** v1.0.0 Released<br><br>[![GitHub](https://img.shields.io/badge/GitHub-Kalivra-181717?logo=github&logoColor=white)](https://github.com/DevBawky/Kalivra) | <img src="./assets/Kalivra.png" width="300" style="image-rendering: pixelated;"/> |
+| **Kalivra** (2026)<br><sub>Game Balance Adjustment Tool</sub> | **Type:** Software Tool<br>**Role:** Developer<br>**Status:** v1.0.1 Released<br><br>[![GitHub](https://img.shields.io/badge/GitHub-Kalivra-181717?logo=github&logoColor=white)](https://github.com/DevBawky/Kalivra) | <img src="./assets/Kalivra.png" width="300" style="image-rendering: pixelated;"/> |
 
 
 <br>

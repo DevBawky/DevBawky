@@ -38,7 +38,7 @@ Passionate about creating unique gameplay experiences
 <br>
 
 <div align="center">
-  <img src="https://github.com/DevBawky/DevBawky/blob/main/profile-summary-card-output/radical/0-profile-details.svg" height="170" alt="Profile Details" />
+  <img src="https://github.com/DevBawky/DevBawky/blob/main/profile-summary-card-output/radical/0-profile-details.svg" width="700" height="170" alt="Profile Details" />
   <img src="https://github.com/DevBawky/DevBawky/blob/main/profile-summary-card-output/radical/2-most-commit-language.svg" height="170" alt="Most Commit Language" />
 </div>
 

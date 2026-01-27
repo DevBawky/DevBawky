@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=5000&color=FFD166&center=true&vCenter=true&width=640&lines="A+Developer+in+Pursuit+of+Sharp,+Distinctive+Fun")](https://git.io/typing-svg)
 
-
 ### 
 
 <br>
@@ -38,8 +37,7 @@ Passionate about creating unique gameplay experiences
 <br>
 
 <div align="center">
-  <img src="https://github.com/DevBawky/DevBawky/blob/main/profile-summary-card-output/radical/0-profile-details.svg" width="700" height="170" alt="Profile Details" />
-  <img src="https://github.com/DevBawky/DevBawky/blob/main/profile-summary-card-output/radical/2-most-commit-language.svg" height="170" alt="Most Commit Language" />
+  <img src="https://raw.githubusercontent.com/DevBawky/FATALDRAW_Github_Profile_Details/output/stats.svg" alt="Bawky's Github Stats" width="600px" />
 </div>
 
 <br>

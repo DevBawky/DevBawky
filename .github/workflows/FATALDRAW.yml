@@ -1,0 +1,36 @@
+name: FATALDRAW Profile Card
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Wanted Poster
+        uses: DevBawky/FATALDRAW_Github_Profile_Card@main
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }} 
+          character: 'Rosalyn'
+
+      - name: Move to dist
+        run: |
+          mkdir -p dist
+          mv stats.svg dist/
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

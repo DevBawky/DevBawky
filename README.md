@@ -28,6 +28,8 @@ Passionate about creating unique gameplay experiences
 
 <br>
 
+</div>
+
 ## About Me
 
 * **Education** : Pusan National Univ. Computer Science Engineering

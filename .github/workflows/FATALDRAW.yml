@@ -18,7 +18,7 @@ jobs:
         uses: DevBawky/FATALDRAW_Github_Profile_Card@main
         with:
           username: ${{ github.repository_owner }}
-          token: ${{ secrets.GITHUB_TOKEN }} 
+          token: ${{ secrets.GH_TOKEN }} 
           character: 'Rosalyn'
 
       - name: Move to dist

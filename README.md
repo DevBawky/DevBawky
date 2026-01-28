@@ -4,13 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=5000&color=FFD166&center=true&vCenter=true&width=640&lines="A+Developer+in+Pursuit+of+Sharp,+Distinctive+Fun")](https://git.io/typing-svg)
 
-### 
-
-<br>
-
-<a href="https://github.com/Platane/snk">
-  <img src="https://github.com/DevBawky/DevBawky/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</a>
+<div align="center">
+  <a href="https://github.com/DevBawky/FATALDRAW_Github_Profile_Details.git">
+      <img src="https://github.com/DevBawky/DevBawky/raw/output/stats.svg" width="600" alt="FATALDRAW" />
+  </a>
+</div>
 
 <br>
 
@@ -23,7 +21,10 @@ Passionate about creating unique gameplay experiences
 [![Youtube](https://img.shields.io/badge/YouTube-Bawky-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevBawky)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghini7170@gmail.com)
 
-</div>
+
+<a href="https://github.com/Platane/snk">
+  <img src="https://github.com/DevBawky/DevBawky/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</a>
 
 <br>
 
@@ -33,14 +34,6 @@ Passionate about creating unique gameplay experiences
 * **Current Role** : Team Leader & Main Developer at **[Bawky Studio]** (2025~)
 * **Content Creator** : Running a Game Dev Channel **[Bawky]** (3K+ Subscribers)
 * **Expertise** : Game Dev Utilities, Multiplayer Networking, System Architecture
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/DevBawky/FATALDRAW_Github_Profile_Details.git">
-      <img src="https://github.com/DevBawky/DevBawky/raw/output/stats.svg" width="600" alt="FATALDRAW" />
-  </a>
-</div>
 
 <br>
 

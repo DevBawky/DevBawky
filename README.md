@@ -38,7 +38,7 @@ Passionate about creating unique gameplay experiences
 
 <div align="center">
   <a href="https://github.com/DevBawky/FATALDRAW_Github_Profile_Details.git">
-    <img src="https://raw.githubusercontent.com/DevBawky/FATALDRAW_Github_Profile_Card/output/stats.svg" width="600" alt="Wanted Poster">
+    <img src="https://raw.githubusercontent.com/DevBawky/DevBawky/output/stats.svg" width="600" alt="Wanted Poster">
   </a>
 </div>
 

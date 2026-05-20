@@ -46,8 +46,8 @@ Passionate about creating unique gameplay experiences
 | :--- | :--- | :---: |
 | **GDWC 2024** | **WINNER** in Best Hobby Game Category <br> *(Game Development World Championship)* <br> [![GDWC](https://img.shields.io/badge/GDWC_Website-FFFF00)](https://thegdwc.com/championships/2024-winter/) | <img src="./assets/GDWC2024.png" height="80"/> |
 | **Krafton Jungle** | **Game Lab** Intensive Course Completion <br> *(Game Design Training Program)* | <img src="./assets/GameLab.png" height="80"/> |
-| **Fast Campus** | Instructor <br> *(Indie Game Dev Course)* |  |
 | **KAIGA** | **Regular Member** (2026) <br> *(Korea Artificial Intelligence Game Association)* | <img src="./assets/KAIGA.png" height="80"/> |
+| **Fast Campus** | Instructor <br> *(Indie Game Dev Course)* | <img src="./assets/FC.png" height="80"/>  |
 
 <br>
 
@@ -67,6 +67,7 @@ Passionate about creating unique gameplay experiences
 | **BIG BLIND** (2024)<br><sub>Where Sound Becomes Sight</sub> | **Type:** Game(2D Top down Shooter)<br>**Role:** Main Developer<br>**Team:** SPADE ACE<br>**Achievement:** **GDWC 2024 WINNER**<br><br>[![Steam](https://img.shields.io/badge/Steam-BIG%20BLIND-000b4a?logo=steam&logoColor=white)](https://store.steampowered.com/app/3349820/Big_Blind/) | <img src="./assets/BigBlind.png" width="300" style="image-rendering: pixelated;"/> |
 | **ARSOL** (2025)<br><sub>AR Spatial Overlay System</sub> | **Type:** Web Service (AR Application)<br>**Role:** Server & Deployment <br><br>**Status:** Completed (Capstone Project)<br><br>[![GitHub](https://img.shields.io/badge/GitHub-ARSOL-181717?logo=github&logoColor=white)](https://github.com/DevBawky/Capstone-2025-team-09) | <img src="./assets/_pnu.png" width="300" style="image-rendering: pixelated;"/> |
 | **Kalivra** (2026)<br><sub>Game Balance Adjustment Tool</sub> | **Type:** Software Tool<br>**Role:** Developer<br>**Status:** v1.0.1 Released<br><br>[![GitHub](https://img.shields.io/badge/GitHub-Kalivra-181717?logo=github&logoColor=white)](https://github.com/DevBawky/Kalivra) | <img src="./assets/Kalivra.png" width="300" style="image-rendering: pixelated;"/> |
+| **Bawky Steam Analysis** (2026)<br><sub>Steam Market Analysis Tool</sub> | **Type:** Software Tool<br>**Role:** Developer<br>**Status:** v1.0.1 Released<br><br>[![GitHub](https://img.shields.io/badge/Windows-Download-181717?logo=github&logoColor=white)](https://drive.google.com/file/d/19CTb0jPtgFvaRK44742mKSKNdu89vcnf/view?usp=sharing) | <img src="./assets/BawkySteamAnalysis.png" width="300" style="image-rendering: pixelated;"/> |
 
 <br>
 

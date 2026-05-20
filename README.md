@@ -46,6 +46,7 @@ Passionate about creating unique gameplay experiences
 | :--- | :--- | :---: |
 | **GDWC 2024** | **WINNER** in Best Hobby Game Category <br> *(Game Development World Championship)* <br> [![GDWC](https://img.shields.io/badge/GDWC_Website-FFFF00)](https://thegdwc.com/championships/2024-winter/) | <img src="./assets/GDWC2024.png" height="80"/> |
 | **Krafton Jungle** | **Game Lab** Intensive Course Completion <br> *(Game Design Training Program)* | <img src="./assets/GameLab.png" height="80"/> |
+| **Fast Campus** | Instructor <br> *(Indie Game Dev Course)* |  |
 | **KAIGA** | **Regular Member** (2026) <br> *(Korea Artificial Intelligence Game Association)* | <img src="./assets/KAIGA.png" height="80"/> |
 
 <br>

@@ -1,102 +1,117 @@
 <div align="center">
 
-# Bawky
+<img src="./assets/Bawky.png" width="150" alt="Bawky Studio logo" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=5000&color=FFD166&center=true&vCenter=true&width=640&lines="A+Developer+in+Pursuit+of+Sharp,+Distinctive+Fun")](https://git.io/typing-svg)
+# BAWKY
 
-<div align="center">
-  <a href="https://github.com/DevBawky/FATALDRAW_Github_Profile_Details.git">
-      <img src="https://github.com/DevBawky/DevBawky/raw/output/stats.svg" width="600" alt="FATALDRAW" />
-  </a>
-</div>
+### Indie Game Developer · Project Lead · Content Creator
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=3000&color=FFD166&center=true&vCenter=true&width=680&lines=Sharp+ideas.+Distinctive+fun.;Building+games%2C+tools%2C+and+playful+systems.)](https://git.io/typing-svg)
 
-**Indie Game Dev**<br>
-Passionate about creating unique gameplay experiences
+[![Studio](https://img.shields.io/badge/BAWKY_STUDIO-Visit_Website-111111?style=for-the-badge&logo=googlechrome&logoColor=FFD166)](https://bawkystudio.com/en/main)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-DevBawky-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevBawky)
+[![Email](https://img.shields.io/badge/EMAIL-Let%27s_Talk-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghini7170@gmail.com)
 
 <br>
 
-[![BawkyStudio](https://img.shields.io/badge/Bawky_Studio-Website-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bawkystudio.com/en/main)
-[![Youtube](https://img.shields.io/badge/YouTube-Bawky-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevBawky)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghini7170@gmail.com)
-
-
-<a href="https://github.com/Platane/snk">
-  <img src="https://github.com/DevBawky/DevBawky/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<a href="https://github.com/DevBawky/FATALDRAW_Github_Profile_Details">
+  <img src="https://github.com/DevBawky/DevBawky/raw/output/stats.svg" width="680" alt="Bawky's GitHub activity card" />
 </a>
 
-<br>
-
 </div>
 
-## About Me
+---
 
-* **Education** : Pusan National Univ. Computer Science Engineering
-* **Current Role** : Team Leader & Main Developer at **[Bawky Studio]** (2025~)
-* **Content Creator** : Running a Game Dev Channel **[Bawky]** (3K+ Subscribers)
-* **Expertise** : Game Dev Utilities, Multiplayer Networking, System Architecture
+## 👋 About
 
-<br>
+> I create games where a strong central idea turns into a memorable play experience.
+> My work spans gameplay, multiplayer networking, developer tools, and system architecture.
 
-## Honors & Activities
-**Proven Global Competence**
+- 🎓 **Computer Science & Engineering** — Pusan National University
+- 🎮 **Team Leader & Main Developer** — [Bawky Studio](https://bawkystudio.com/en/main), 2025–Present
+- 🎥 **Game Dev Creator** — [Bawky](https://www.youtube.com/@DevBawky), 3K+ subscribers
+- 🧩 **Focused on** — Game-dev utilities, multiplayer networking, and system architecture
 
-| Award / Activity | Description | Badge |
-| :--- | :--- | :---: |
-| **GDWC 2024** | **WINNER** in Best Hobby Game Category <br> *(Game Development World Championship)* <br> [![GDWC](https://img.shields.io/badge/GDWC_Website-FFFF00)](https://thegdwc.com/championships/2024-winter/) | <img src="./assets/GDWC2024.png" height="80"/> |
-| **Krafton Jungle** | **Game Lab** Intensive Course Completion <br> *(Game Design Training Program)* | <img src="./assets/GameLab.png" height="80"/> |
-| **KAIGA** | **Regular Member** (2026) <br> *(Korea Artificial Intelligence Game Association)* | <img src="./assets/KAIGA.png" height="80"/> |
-| **Fast Campus** | Instructor <br> *(Indie Game Dev Course)* | <img src="./assets/FC.png" height="80"/>  |
+## 🏆 Highlights
 
-<br>
+|  | Highlight | What I did |
+| :---: | :--- | :--- |
+| <img src="./assets/GDWC2024.png" width="54" alt="GDWC 2024" /> | **GDWC 2024 Winner** | Won the **Best Hobby Game** category at the [Game Development World Championship](https://thegdwc.com/championships/2024-winter/) |
+| <img src="./assets/GameLab.png" width="54" alt="Krafton Jungle Game Lab" /> | **Krafton Jungle · Game Lab** | Completed the intensive game-design training program |
+| <img src="./assets/KAIGA.png" width="54" alt="KAIGA" /> | **KAIGA** | Regular member of the Korea Artificial Intelligence Game Association, 2026 |
+| <img src="./assets/FC.png" width="54" alt="Fast Campus" /> | **Fast Campus** | Instructor for the Indie Game Development course |
 
-### In Progress Projects
-
-| Project | Info | Preview |
-| :--- | :--- | :--- |
-| **FATALDRAW** (2025)<br><sub>Every Bullet is a Bet</sub> | **Type:** 2 Player Co-op Shooter<br>**Role:** Project Lead<br>**Team:** Bawky Studio<br>**Status:** In Development<br><br>[![Steam](https://img.shields.io/badge/Steam-FATALDRAW-000b4a?logo=steam&logoColor=white)](https://store.steampowered.com/app/3349820/Big_Blind/) | <img src="./assets/_BETDOWN.png" width="300" style="image-rendering: pixelated;"/> |
-
-
-<br>
-
-### Completed Projects
-
-| Project | Info | Preview |
-| :--- | :--- | :--- |
-| **BIG BLIND** (2024)<br><sub>Where Sound Becomes Sight</sub> | **Type:** Game(2D Top down Shooter)<br>**Role:** Main Developer<br>**Team:** SPADE ACE<br>**Achievement:** **GDWC 2024 WINNER**<br><br>[![Steam](https://img.shields.io/badge/Steam-BIG%20BLIND-000b4a?logo=steam&logoColor=white)](https://store.steampowered.com/app/3349820/Big_Blind/) | <img src="./assets/BigBlind.png" width="300" style="image-rendering: pixelated;"/> |
-| **ARSOL** (2025)<br><sub>AR Spatial Overlay System</sub> | **Type:** Web Service (AR Application)<br>**Role:** Server & Deployment <br><br>**Status:** Completed (Capstone Project)<br><br>[![GitHub](https://img.shields.io/badge/GitHub-ARSOL-181717?logo=github&logoColor=white)](https://github.com/DevBawky/Capstone-2025-team-09) | <img src="./assets/_pnu.png" width="300" style="image-rendering: pixelated;"/> |
-| **Kalivra** (2026)<br><sub>Game Balance Adjustment Tool</sub> | **Type:** Software Tool<br>**Role:** Developer<br>**Status:** v1.0.1 Released<br><br>[![GitHub](https://img.shields.io/badge/GitHub-Kalivra-181717?logo=github&logoColor=white)](https://github.com/DevBawky/Kalivra) | <img src="./assets/Kalivra.png" width="300" style="image-rendering: pixelated;"/> |
-| **Bawky Steam Analysis** (2026)<br><sub>Steam Market Analysis Tool</sub> | **Type:** Software Tool<br>**Role:** Developer<br>**Status:** v1.0.1 Released<br><br>[![GitHub](https://img.shields.io/badge/Github-SteamAnalysis-181717?logo=github&logoColor=white)](https://github.com/DevBawky/Bawky-Steam-Analysis) | <img src="./assets/BawkySteamAnalysis.png" width="300" style="image-rendering: pixelated;"/> |
-
-<br>
-
-## Technical Overview
+## 🚧 Now Building
 
 <div align="center">
 
-**Primary Languages**<br>
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="./assets/_BETDOWN.png" width="720" alt="FATALDRAW game preview" />
 
-**Engines**<br>
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### FATALDRAW
 
-**OS & Environment**<br>
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+*Every Bullet is a Bet.*
 
-**Infra & Tools**<br>
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-FFD166?style=flat-square&labelColor=111111)
+![Genre](https://img.shields.io/badge/GENRE-2P_CO--OP_SHOOTER-EA4AAA?style=flat-square&labelColor=111111)
+![Role](https://img.shields.io/badge/ROLE-PROJECT_LEAD-7C3AED?style=flat-square&labelColor=111111)
+![Team](https://img.shields.io/badge/TEAM-BAWKY_STUDIO-22C55E?style=flat-square&labelColor=111111)
+
+[![View on Steam](https://img.shields.io/badge/VIEW_ON_STEAM-1B2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3349820/Big_Blind/)
+
+</div>
+
+## 🕹️ Shipped Projects
+
+| Project | Snapshot | Links |
+| :--- | :--- | :---: |
+| <img src="./assets/BigBlind.png" width="110" alt="BIG BLIND cover" /><br>**BIG BLIND** · 2024<br><sub>Where Sound Becomes Sight</sub> | **2D top-down shooter**<br>Main Developer · SPADE ACE<br>🏆 GDWC 2024 Best Hobby Game | [![Steam](https://img.shields.io/badge/Steam-1B2838?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/app/3349820/Big_Blind/) |
+| <img src="./assets/_pnu.png" width="110" alt="ARSOL preview" /><br>**ARSOL** · 2025<br><sub>AR Spatial Overlay System</sub> | **AR web service**<br>Server & Deployment<br>PNU Capstone Project | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevBawky/Capstone-2025-team-09) |
+| <img src="./assets/Kalivra.png" width="110" alt="Kalivra logo" /><br>**Kalivra** · 2026<br><sub>Game Balance Adjustment Tool</sub> | **Game-dev utility**<br>Developer<br>v1.0.1 released | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevBawky/Kalivra) |
+| <img src="./assets/BawkySteamAnalysis.png" width="110" alt="Bawky Steam Analysis logo" /><br>**Bawky Steam Analysis** · 2026<br><sub>Steam Market Analysis Tool</sub> | **Data-analysis utility**<br>Developer<br>v1.0.1 released | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevBawky/Bawky-Steam-Analysis) |
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Engines & Frameworks**
+
+![Unity](https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=9FEAF9)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Platform & Workflow**
+
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+</div>
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+
+<img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Repositories by language" />
+<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Most used commit languages" />
+
+<br>
+
+<a href="https://github.com/Platane/snk">
+  <img src="https://github.com/DevBawky/DevBawky/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</a>
+
+<sub>Building strange, sharp, and genuinely fun things — one commit at a time.</sub>
 
 </div>

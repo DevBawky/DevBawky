@@ -47,14 +47,14 @@
 
 <img src="./assets/_BETDOWN.png" width="720" alt="FATALDRAW game preview" />
 
-### FATALDRAW
+### LOADED
 
 *Every Bullet is a Bet.*
 
 ![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-FFD166?style=flat-square&labelColor=111111)
-![Genre](https://img.shields.io/badge/GENRE-2P_CO--OP_SHOOTER-EA4AAA?style=flat-square&labelColor=111111)
+![Genre](https://img.shields.io/badge/BULLET-BUILDING-EA4AAA?style=flat-square&labelColor=111111)
 ![Role](https://img.shields.io/badge/ROLE-PROJECT_LEAD-7C3AED?style=flat-square&labelColor=111111)
-![Team](https://img.shields.io/badge/TEAM-BAWKY_STUDIO-22C55E?style=flat-square&labelColor=111111)
+![Team](https://img.shields.io/badge/TEAM-CHICKENWIND-22C55E?style=flat-square&labelColor=111111)
 
 [![View on Steam](https://img.shields.io/badge/VIEW_ON_STEAM-1B2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3349820/Big_Blind/)
 

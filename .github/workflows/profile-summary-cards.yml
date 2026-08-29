@@ -21,5 +21,6 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           THEME: radical 
+          EXCLUDE: ShaderLab
           HIDE_MY_STACK: true
           HIDE_CONTRIB_GRAPH: true

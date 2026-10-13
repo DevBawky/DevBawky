@@ -28,8 +28,8 @@
 > My work spans gameplay, multiplayer networking, developer tools, and system architecture.
 
 - 🎓 **Computer Science & Engineering** — Pusan National University
-- 🎮 **Team Leader & Main Developer** — [Bawky Studio](https://bawkystudio.com/en/main), 2025–Present
-- 🎥 **Game Dev Creator** — [Bawky](https://www.youtube.com/@DevBawky), 3K+ subscribers
+- 🎮 **Team Leader & Main Developer** — [Chicken Wind](https://bawkystudio.com/en/main), 2025–Present
+- 🎥 **Game Dev Creator** — [Bawky](https://www.youtube.com/@DevBawky), 4K+ subscribers
 - 🧩 **Focused on** — Game-dev utilities, multiplayer networking, and system architecture
 
 ## 🏆 Highlights
